@@ -26,5 +26,4 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
-#以下vscode使う人用
-#.vscode/settings.json
+.vscode/settings.json
